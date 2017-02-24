@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ensayis jejeje</string>
+    <string name="titulo_f_m">Football Model</string>
+    <string name="jugadores">Jugadores</string>
+    <string name="modelos">Modelos</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="contactenos">Contactenos</string>
+    <string name="desc_jug1">Descripcion jugador 1</string>
+    <string name="desc_jug2">Descripcion jugador 2</string>
+    <string name="desc_jug3">Descripcion jugador 3</string>
+    <string name="desc_mod1">Descripcion modelo 1</string>
+    <string name="desc_mod2">Descripcion modelo 2</string>
+    <string name="desc_mod3">Descripcion modelo 3</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="cedula">Cedula</string>
+    <string name="enviar">Enviar</string>
+</resources>
